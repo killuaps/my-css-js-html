@@ -1,0 +1,81 @@
+body, html
+{
+   
+}
+
+#count-down
+{margin-top:10px;}
+.county
+{
+    
+}
+.county span.first
+{
+   
+}
+.county span.last
+{
+    
+}
+
+.county > span
+{
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    position: relative;
+    overflow: hidden;
+    padding-right: 12px;
+	
+	
+}
+
+.county-days-wrapper, .county-hours-wrapper, .county-minutes-wrapper, .county-seconds-wrapper
+{
+    overflow: hidden !important;
+    position: relative !important;
+    height: 36px !important;
+    display: inline-block !important;
+    padding-left: 12px;
+	color:#fff;
+	
+}
+.county-days-wrapper{ background: rgba(51, 51, 51, 0.7); border-radius:3px 0 0 3px}
+.county-hours-wrapper{ background: rgba(51, 51, 51, 0.6);}
+.county-minutes-wrapper{background: rgba(51, 51, 51, 0.4);}
+.county-seconds-wrapper { background: rgba(51, 51, 51, 0.2); border-radius: 0 3px 3px 0 }
+.county > span > span
+{
+    display: block;
+}
+.county-label-days, .county-label-hours, .county-label-minutes, .county-label-seconds
+{
+    
+   
+}
+
+.clear
+{
+    clear: both;
+}
+
+
+
+/*blue*/
+
+.county.blue .county-days-wrapper, .county.blue .county-hours-wrapper, .county.blue .county-minutes-wrapper, .county.blue .county-seconds-wrapper
+{
+   
+}
+.county.blue .county-label-days, .county.blue .county-label-hours, .county.blue .county-label-minutes, .county.blue .county-label-seconds
+{
+   
+}
+.county.blue span.separator-left
+{
+ 
+}
+.county.blue span.separator-right
+{
+    
+}
