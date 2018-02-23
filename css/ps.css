@@ -1,0 +1,29 @@
+*{
+	 margin: 0 auto;
+	 padding: 0 auto;
+	 text-align: center; 
+}
+body{
+
+      background-color: #a3a3a3;
+      background-image: url('https://images.pexels.com/photos/220067/pexels-photo-220067.jpeg');
+      background-position: center top;
+		color:yellow
+
+}
+h1{
+      color: #ff0000;
+
+ }
+h1:hover{
+      color: beige;
+}
+iframe{
+     border-style: dotted;
+     border-color: blue;
+ }
+iframe:hover{
+
+   color: purple;
+
+}
